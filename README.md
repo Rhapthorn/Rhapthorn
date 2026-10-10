@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&size=24&duration=3500&pause=1000&color=FF0055&center=true&vCenter=true&width=650&lines=System+Corrupted...;User:+Rhapthorn;Class:+Void+Architect+%26+Code+Necromancer;Whispers+from+the+Abyss..." alt="Typing SVG" />
 </p>
-<img src="skullknight.png" width="500" alt="Griffith Blood Moon">
+<p align="center">
+  <img src="skullknight.ong" width="300" alt="Griffith Blood Moon">
+</p>
 <details>
   <summary align="center"><b>📜 [ OPEN THE GRIMOIRE: Reveal Hidden Attributes ]</b></summary>
   <p align="center">
