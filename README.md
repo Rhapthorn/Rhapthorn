@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1623910271018-80bdf60ff1df?q=80&w=600&auto=format&fit=crop" width="350" alt="Blood Moon Abyss" style="border-radius: 8px; border: 1px solid #ff005533; box-shadow: 0 0 20px rgba(255, 0, 85, 0.3);" />
+  <img src="image_0.png" width="300" alt="Griffith - Void Abyss" style="border-radius: 8px; border: 1px solid #ff005533; box-shadow: 0 0 20px rgba(255, 0, 85, 0.4);" />
 </p>
 
 <p align="center">
@@ -63,23 +63,48 @@
 
 <br>
 
-<h3 align="center">🩸 <b>[ GRIMOIRE METRICS ]</b></h3>
+<h3 align="center">🩸 <b>[ MOST USED SPELLS & ARTIFACTS ]</b></h3>
+<p align="center"><em>Customizing mastery from user's skilltree (ignores unintended repository stats)</em></p>
+
+<!-- Progress Bar / Customized Language Section aligned perfectly with Skill Tree -->
+<table align="center" width="70%" style="border: 1px solid #ff005511; background-color: #0d1117;">
+  <tr>
+    <td width="30%">🔥 TypeScript / JS</td>
+    <td width="70%"><img src="https://geps.dev/progress/92?dangerColor=8b0000&bgColor=1a1a1a" alt="TypeScript Progress" /></td>
+  </tr>
+  <tr>
+    <td>🌌 React & Next.js</td>
+    <td><img src="https://geps.dev/progress/88?dangerColor=8b0000&bgColor=1a1a1a" alt="React Progress" /></td>
+  </tr>
+  <tr>
+    <td>⚙️ Node.js / Server</td>
+    <td><img src="https://geps.dev/progress/80?dangerColor=8b0000&bgColor=1a1a1a" alt="Node Progress" /></td>
+  </tr>
+  <tr>
+    <td>🛠️ Tauri / Tools</td>
+    <td><img src="https://geps.dev/progress/65?dangerColor=8b0000&bgColor=1a1a1a" alt="Tauri Progress" /></td>
+  </tr>
+  <tr>
+    <td>🕷️ Playwright (Web)</td>
+    <td><img src="https://geps.dev/progress/75?dangerColor=8b0000&bgColor=1a1a1a" alt="Playwright Progress" /></td>
+  </tr>
+</table>
+
+<br>
+
+<h3 align="center">📊 <b>[ GRIMOIRE METRICS ]</b></h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rhapthorn&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0055&icon_color=ff0055&text_color=c9d1d9" alt="GitHub Stats" />
-  <!-- Java has been explicitly hidden from the languages list using &hide=java -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhapthorn&layout=compact&hide=java&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0055&text_color=c9d1d9" alt="Top Languages" />
+  <!-- Using Top Languages filter & Hide Java to ensure only relevant languages show, while complementing with the customized spell list above -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhapthorn&layout=compact&hide=java,python,c,c++&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0055&text_color=c9d1d9" alt="Top Languages" />
 </p>
 
 <br>
 
 <h3 align="center">⛓️ <b>[ ACTIVITY ECHOES ]</b></h3>
 
-<!-- Replacing the broken snake with a functional dark fantasy activity graph that tracks your latest commit activity without needing GitHub Actions -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rhapthorn&bg_color=0d1117&color=ff0055&line=ff0055&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-</p>
-
+<!-- Replacing standard activity graphs with highly reliable and immersive GitHub Stats/Streaks. Added a dynamic status overview for uptime guarantees. -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Rhapthorn&theme=radical&hide_border=true&background=0D1117&fire=FF0055&sideLabels=true" alt="GitHub Streak" />
 </p>
