@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image_0.png" width="300" alt="Griffith - Void Abyss" style="border-radius: 8px; border: 1px solid #ff005533; box-shadow: 0 0 20px rgba(255, 0, 85, 0.4);" />
+  <img src="image_1.png" width="450" alt="Griffith under the Blood Moon" style="border-radius: 8px; border: 1.5px solid #ff005577; box-shadow: 0 0 25px rgba(255, 0, 85, 0.4);" />
 </p>
 
 <p align="center">
@@ -15,9 +15,9 @@
       <p align="center"><em>"Kindling the bonfire while the grimoire compiles in the dark."</em></p>
       <ul>
         <li><b>Entity:</b> Rhapthorn</li>
-        <li><b>Domain:</b> Full-Stack Development, Automation, & IT Operations</li>
+        <li><b>Domain:</b> Full-Stack Development & IT Operations</li>
         <li><b>Relics of Choice:</b> TypeScript, React, Next.js, & Tauri</li>
-        <li><b>Active Curses (Quests):</b> Architecting a Souls-like deckbuilder, forging modular Discord bots, and constructing full-stack dashboards.</li>
+        <li><b>Active Curses (Quests):</b> Architecting a Souls-like deckbuilder, forging modular web frameworks, and constructing full-stack dashboards.</li>
         <li><b>Alignment:</b> Chaotic Neutral (leaning toward clean code & dark themes)</li>
       </ul>
     </td>
@@ -34,7 +34,7 @@
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
         <img src="https://img.shields.io/badge/Tauri-1a1a1a?style=for-the-badge&logo=tauri&logoColor=FFC131" />
         <img src="https://img.shields.io/badge/Vite-1a1a1a?style=for-the-badge&logo=vite&logoColor=646CFF" /><br>
-        <!-- Backend & Automation -->
+        <!-- Backend & Systems -->
         <img src="https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
         <img src="https://img.shields.io/badge/Prisma-1a1a1a?style=for-the-badge&logo=prisma&logoColor=white" />
         <img src="https://img.shields.io/badge/Playwright-1a1a1a?style=for-the-badge&logo=playwright&logoColor=2EAD33" />
@@ -52,7 +52,7 @@
   <summary align="center"><b>📜 [ OPEN THE GRIMOIRE: Reveal Hidden Attributes ]</b></summary>
   <br>
   <p align="center">
-    <code>[STATUS]: Corrupted</code> &nbsp;&bull;&nbsp; 
+    <code>[STATUS]: Active</code> &nbsp;&bull;&nbsp; 
     <code>[MANA]: 999/999</code> &nbsp;&bull;&nbsp; 
     <code>[GUILD]: WebStorm & VS Code Sorcerers</code>
   </p>
@@ -64,26 +64,41 @@
 <br>
 
 <h3 align="center">🩸 <b>[ MOST USED SPELLS & ARTIFACTS ]</b></h3>
-<p align="center"><em>Customizing mastery from user's skilltree (ignores unintended repository stats)</em></p>
+<p align="center"><em>Your true mastery, aligned precisely with the forbidden skill tree. Since this uses text-based meters, it will never break!</em></p>
 
-<!-- Progress Bar / Customized Language Section aligned perfectly with Skill Tree -->
-<table align="center" width="70%" style="border: 1px solid #ff005511; background-color: #0d1117;">
+<table align="center" width="80%" style="border: 1px solid #ff005522; background-color: #0d1117; border-radius: 6px;">
   <tr>
-    <td width="30%">🔥 TypeScript / JS</td>
-    <td width="70%"><img src="https://geps.dev/progress/92?dangerColor=8b0000&bgColor=1a1a1a" alt="TypeScript Progress" /></td>
+    <td width="30%">🔥 <b>TypeScript / JS</b></td>
+    <td width="70%"><code>[██████████████████░░] 92%</code></td>
   </tr>
   <tr>
-    <td>🌌 React & Next.js</td>
-    <td><img src="https://geps.dev/progress/88?dangerColor=8b0000&bgColor=1a1a1a" alt="React Progress" /></td>
+    <td>🌌 <b>React & Next.js</b></td>
+    <td><code>[████████████████░░░░] 85%</code></td>
   </tr>
   <tr>
-    <td>⚙️ Node.js / Server</td>
-    <td><img src="https://geps.dev/progress/80?dangerColor=8b0000&bgColor=1a1a1a" alt="Node Progress" /></td>
+    <td>⚙️ <b>Node.js / Server</b></td>
+    <td><code>[██████████████░░░░░░] 78%</code></td>
   </tr>
   <tr>
-    <td>🛠️ Tauri / Tools</td>
-    <td><img src="https://geps.dev/progress/65?dangerColor=8b0000&bgColor=1a1a1a" alt="Tauri Progress" /></td>
+    <td>🛠️ <b>Tauri / Desktop</b></td>
+    <td><code>[████████████░░░░░░░░] 65%</code></td>
   </tr>
   <tr>
-    <td>🕷️ Playwright (Web)</td>
-    <td><img src="
+    <td>🕷️ <b>Playwright (Web Scraping)</b></td>
+    <td><code>[██████████████░░░░░░] 75%</code></td>
+  </tr>
+  <tr>
+    <td>💾 <b>Data & SQLite</b></td>
+    <td><code>[██████████░░░░░░░░░░] 55%</code></td>
+  </tr>
+</table>
+
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rhapthorn&color=ff0055&style=flat-square&label=SOULS+CLAIMED" alt="Visitor Count" />
+</p>
+
+<p align="center">
+  <sub>💀 <i>Summoned with dark magic & code &bull; Theme: Anime Dark Fantasy</i> 💀</sub>
+</p>
