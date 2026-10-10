@@ -1,4 +1,6 @@
+<p align="center">
 <img src="skullknight.png" width="250" alt="skullknight">
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&size=24&duration=3500&pause=1000&color=FF0055&center=true&vCenter=true&width=650&lines=System+Corrupted...;User:+Rhapthorn;Class:+Void+Architect+%26+Code+Necromancer;Whispers+from+the+Abyss..." alt="Typing SVG" />
