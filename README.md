@@ -12,23 +12,34 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🔮 <b>[ CHARACTER LORE ]</b></h3>
-      <p align="center"><em>"In the depths of legacy systems and infinite loops, the grimoire compiles."</em></p>
+      <p align="center"><em>"Kindling the bonfire while the grimoire compiles."</em></p>
       <ul>
-        <li><b>Alias:</b> Rhapthorn / Shadow Weaver</li>
-        <li><b>Domain:</b> Full-Stack Architecture, Automation & Low-Level Craft</li>
-        <li><b>Weapon of Choice:</b> TypeScript, React, Next.js, & Raw Terminal Spells</li>
-        <li><b>Current Quest:</b> Optimizing performance across dark, asynchronous dimensions</li>
+        <li><b>Alias:</b> Rhapthorn</li>
+        <li><b>Domain:</b> Full-Stack Development, Automation, & IT Operations</li>
+        <li><b>Weapons of Choice:</b> TypeScript, React, Next.js, & Tauri</li>
+        <li><b>Current Quests:</b> Architecting a Souls-like deckbuilder, forging modular Discord bots, and constructing full-stack dashboards.</li>
         <li><b>Alignment:</b> Chaotic Neutral (leaning toward clean code)</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">⚡ <b>[ SKILL TREE ]</b></h3>
       <p align="center">
+        <!-- Core Web -->
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br>
+        <!-- Frameworks & Tools -->
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /><br>
+        <!-- Backend & Automation -->
+        <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /><br>
+        <!-- Environment -->
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
       </p>
     </td>
@@ -43,7 +54,7 @@
   <p align="center">
     <code>[STATUS]: Active</code> &nbsp;&bull;&nbsp; 
     <code>[MANA]: 999/999</code> &nbsp;&bull;&nbsp; 
-    <code>[GUILD]: Independent Coder</code>
+    <code>[GUILD]: WebStorm & VS Code Sorcerers</code>
   </p>
   <p align="center">
     <i>"He who controls the architecture controls the fate of the realm. Every repository is a sealed dungeon waiting to be conquered."</i>
