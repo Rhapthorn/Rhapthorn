@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1200&auto=format&fit=crop" width="100%" alt="Dark Fantasy Void Banner" style="border-radius: 8px; border: 1px solid #ff005533; box-shadow: 0 0 20px rgba(255, 0, 85, 0.2);" />
+  <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?q=80&w=600&auto=format&fit=crop" width="350" alt="Void Abyss" style="border-radius: 8px; border: 1px solid #ff005533; box-shadow: 0 0 20px rgba(255, 0, 85, 0.2);" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&size=24&duration=3500&pause=1000&color=FF0055&center=true&vCenter=true&width=650&lines=System+Online...;Class:+Full-Stack+Architect+%26+Code+Necromancer;Welcome+to+the+Void+Domain" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&size=24&duration=3500&pause=1000&color=FF0055&center=true&vCenter=true&width=650&lines=System+Online...;User:+Rhapthorn;Class:+Full-Stack+Architect+%26+Code+Necromancer;Welcome+to+the+Void+Domain" alt="Typing SVG" />
 </p>
 
 <br>
@@ -14,7 +14,7 @@
       <h3 align="center">🔮 <b>[ CHARACTER LORE ]</b></h3>
       <p align="center"><em>"In the depths of legacy systems and infinite loops, the grimoire compiles."</em></p>
       <ul>
-        <li><b>Alias:</b> Shadow Weaver / Beginner Developer</li>
+        <li><b>Alias:</b> Rhapthorn / Shadow Weaver</li>
         <li><b>Domain:</b> Full-Stack Architecture, Automation & Low-Level Craft</li>
         <li><b>Weapon of Choice:</b> TypeScript, React, Next.js, & Raw Terminal Spells</li>
         <li><b>Current Quest:</b> Optimizing performance across dark, asynchronous dimensions</li>
@@ -30,8 +30,6 @@
         <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" /><br>
         <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -70,7 +68,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/Rhapthorn/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Rhapthorn/Rhapthorn/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 <br>
