@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1623910271018-80bdf60ff1df?q=80&w=600&auto=format&fit=crop" width="350" alt="Blood Moon Abyss" style="border-radius: 8px; border: 1px solid #ff005533; box-shadow: 0 0 20px rgba(255, 0, 85, 0.3);" />
+  <img src="https://www.peakpx.com/en/hd-wallpaper-desktop-waloc" style="border-radius: 8px; border: 1px solid #ff005533; box-shadow: 0 0 20px rgba(255, 0, 85, 0.3);" />
 </p>
 
 <p align="center">
