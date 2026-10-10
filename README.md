@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="image_0.png" width="300" alt="Griffith - Void Abyss" style="border-radius: 8px; border: 1px solid #ff005533; box-shadow: 0 0 20px rgba(255, 0, 85, 0.4);" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&size=24&duration=3500&pause=1000&color=FF0055&center=true&vCenter=true&width=650&lines=System+Corrupted...;User:+Rhapthorn;Class:+Void+Architect+%26+Code+Necromancer;Whispers+from+the+Abyss..." alt="Typing SVG" />
 </p>
 
@@ -15,7 +11,7 @@
       <p align="center"><em>"Kindling the bonfire while the grimoire compiles in the dark."</em></p>
       <ul>
         <li><b>Entity:</b> Rhapthorn</li>
-        <li><b>Domain:</b> Full-Stack Development, Automation, & IT Operations</li>
+        <li><b>Domain:</b> Full-Stack Development & IT Operations</li>
         <li><b>Relics of Choice:</b> TypeScript, React, Next.js, & Tauri</li>
         <li><b>Active Curses (Quests):</b> Architecting a Souls-like deckbuilder, forging modular Discord bots, and constructing full-stack dashboards.</li>
         <li><b>Alignment:</b> Chaotic Neutral (leaning toward clean code & dark themes)</li>
@@ -80,41 +76,3 @@
     <td>⚙️ Node.js / Server</td>
     <td><img src="https://geps.dev/progress/80?dangerColor=8b0000&bgColor=1a1a1a" alt="Node Progress" /></td>
   </tr>
-  <tr>
-    <td>🛠️ Tauri / Tools</td>
-    <td><img src="https://geps.dev/progress/65?dangerColor=8b0000&bgColor=1a1a1a" alt="Tauri Progress" /></td>
-  </tr>
-  <tr>
-    <td>🕷️ Playwright (Web)</td>
-    <td><img src="https://geps.dev/progress/75?dangerColor=8b0000&bgColor=1a1a1a" alt="Playwright Progress" /></td>
-  </tr>
-</table>
-
-<br>
-
-<h3 align="center">📊 <b>[ GRIMOIRE METRICS ]</b></h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rhapthorn&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0055&icon_color=ff0055&text_color=c9d1d9" alt="GitHub Stats" />
-  <!-- Using Top Languages filter & Hide Java to ensure only relevant languages show, while complementing with the customized spell list above -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhapthorn&layout=compact&hide=java,python,c,c++&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0055&text_color=c9d1d9" alt="Top Languages" />
-</p>
-
-<br>
-
-<h3 align="center">⛓️ <b>[ ACTIVITY ECHOES ]</b></h3>
-
-<!-- Replacing standard activity graphs with highly reliable and immersive GitHub Stats/Streaks. Added a dynamic status overview for uptime guarantees. -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rhapthorn&theme=radical&hide_border=true&background=0D1117&fire=FF0055&sideLabels=true" alt="GitHub Streak" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rhapthorn&color=ff0055&style=flat-square&label=SOULS+CLAIMED" alt="Visitor Count" />
-</p>
-
-<p align="center">
-  <sub>💀 <i>Summoned with dark magic & code &bull; Theme: Anime Dark Fantasy</i> 💀</sub>
-</p>
