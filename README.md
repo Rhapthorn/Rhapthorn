@@ -1,9 +1,6 @@
 <p align="center">
-<img src="skullknight.png" width="250" alt="skullknight">
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&size=24&duration=3500&pause=1000&color=FF0055&center=true&vCenter=true&width=650&lines=System+Corrupted...;User:+Rhapthorn;Class:+Void+Architect+%26+Code+Necromancer;Whispers+from+the+Abyss..." alt="Typing SVG" />
+</p>
 
 <details>
   <summary align="center"><b>📜 [ OPEN THE GRIMOIRE: Reveal Hidden Attributes ]</b></summary>
@@ -36,22 +33,18 @@
     <td width="50%" valign="top" style="border-bottom: 1px solid #4A0000;">
       <h3 align="center">🗡️ <b>[ FORBIDDEN SKILL TREE ]</b></h3>
       <p align="center">
-        <!-- Core Web -->
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
         <img src="https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5&logoColor=E34F26" />
-        <img src="https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css3&logoColor=1572B6" /><br>
-        <!-- Frameworks & Tools -->
+        <img src="https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css3&logoColor=1572B6&v=1" />
         <img src="https://img.shields.io/badge/React-1a1a1a?style=for-the-badge&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
         <img src="https://img.shields.io/badge/Tauri-1a1a1a?style=for-the-badge&logo=tauri&logoColor=FFC131" />
-        <img src="https://img.shields.io/badge/Vite-1a1a1a?style=for-the-badge&logo=vite&logoColor=646CFF" /><br>
-        <!-- Backend & Infrastructure -->
+        <img src="https://img.shields.io/badge/Vite-1a1a1a?style=for-the-badge&logo=vite&logoColor=646CFF" />
         <img src="https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
         <img src="https://img.shields.io/badge/Prisma-1a1a1a?style=for-the-badge&logo=prisma&logoColor=white" />
-        <img src="https://img.shields.io/badge/Playwright-1a1a1a?style=for-the-badge&logo=playwright&logoColor=2EAD33" />
-        <img src="https://img.shields.io/badge/SQLite-1a1a1a?style=for-the-badge&logo=sqlite&logoColor=003B57" /><br>
-        <!-- Environment -->
+        <img src="https://img.shields.io/badge/Playwright-1a1a1a?style=for-the-badge&logo=playwright&logoColor=2EAD33&v=1" />
+        <img src="https://img.shields.io/badge/SQLite-1a1a1a?style=for-the-badge&logo=sqlite&logoColor=003B57" />
         <img src="https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=F05032" />
       </p>
     </td>
@@ -85,6 +78,9 @@
 
 <br>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rhapthorn&color=ff0055&style=flat-square&label=SOULS+CLAIMED" alt="Visitor Count" />
+</p>
 
 <p align="center">
   <sub>💀 <i>Summoned with dark magic & code &bull; Theme: Anime Dark Fantasy</i> 💀</sub>
