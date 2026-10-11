@@ -84,9 +84,8 @@
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rhapthorn&color=ff0055&style=flat-square&label=SOULS+CLAIMED" alt="Visitor Count" />
+  <img src="https://se-badges.vercel.app/api?username=Rhapthorn&description=SOULS+CLAIMED&color=ff0055&background=0d1117" alt="Visitor Count" />
 </p>
-
 
 <p align="center">
   <sub>💀 <i>Summoned with dark magic & code &bull; Theme: Anime Dark Fantasy</i> 💀</sub>
