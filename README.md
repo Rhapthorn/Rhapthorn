@@ -1,4 +1,9 @@
 <p align="center">
+  <img src="./skullknight.png" width="350" alt="Void Abyss" style="border-radius: 8px; border: 1px solid #ff005533; box-shadow: 0 0 20px rgba(255, 0, 85, 0.3);" />
+</p>
+
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&size=24&duration=3500&pause=1000&color=FF0055&center=true&vCenter=true&width=650&lines=System+Corrupted...;User:+Rhapthorn;Class:+Void+Architect+%26+Code+Necromancer;Whispers+from+the+Abyss..." alt="Typing SVG" />
 </p>
 
