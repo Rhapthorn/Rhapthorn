@@ -1,4 +1,8 @@
 <p align="center">
+<img src="skullknight.png" width="250" alt="skullknight">
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&size=24&duration=3500&pause=1000&color=FF0055&center=true&vCenter=true&width=650&lines=System+Corrupted...;User:+Rhapthorn;Class:+Void+Architect+%26+Code+Necromancer;Whispers+from+the+Abyss..." alt="Typing SVG" />
 </p>
 
@@ -69,8 +73,7 @@
       <h3 align="center">📊 <b>[ GRIMOIRE METRICS ]</b></h3>
       <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=Rhapthorn&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0055&icon_color=ff0055&text_color=c9d1d9" alt="GitHub Stats" style="max-width: 100%;" /><br><br>
-        <!-- Updated to cleanly track your actual repo languages while hiding markup-only noise if needed -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhapthorn&layout=compact&exclude_repo=Rhapthorn&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0055&text_color=c9d1d9" alt="Top Languages" style="max-width: 100%;" /><br><br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhapthorn&layout=compact&hide=java,python,c,c++&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0055&text_color=c9d1d9" alt="Top Languages" style="max-width: 100%;" /><br><br>
         <img src="https://github-readme-streak-stats.herokuapp.com?user=Rhapthorn&theme=radical&hide_border=true&background=0D1117&fire=FF0055&sideLabels=true" alt="GitHub Streak" style="max-width: 100%;" />
       </p>
     </td>
